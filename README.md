@@ -37,8 +37,8 @@ Eu me chamo **Duh**, estou cursando Análise e Desenvolvimento de Sistemas, foca
 
 ### 🚀 Projetos em Destaque
 
-- 🌀 **[fibonacci-spiral](https://github.com/DuhUiosHagah/fibonacci-spiral)** — Visualizador da Espiral de Fibonacci desenvolvido em C com Raylib.
 - 🌙 **[metztli-project](https://github.com/DuhUiosHagah/metztli-project)** — Aplicação Web para cálculo de fases e horários lunares.
+- - 🌀 **[fibonacci-spiral](https://github.com/DuhUiosHagah/fibonacci-spiral)** — Visualizador da Espiral de Fibonacci desenvolvido em C com Raylib.
 
 ---
 
